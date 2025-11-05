@@ -2,7 +2,7 @@
 A data-driven analysis and visualization of student performance to uncover key academic insights.
 
 **Overview:**
-This project analyzes student performance data using Python and Excel to understand patterns in academic results. It provides a clean dashboard to visualize performance trends, subject comparisons, and improvement areas.
+This project analyzes student performance data using Excel to understand patterns in academic results. It provides a clean dashboard to visualize performance trends, subject comparisons, and improvement areas.
 
 **Objectives:**
 - Analyze raw student performance data
